@@ -2,10 +2,5 @@ Hell is here.
 
 This is the change.
 
-<<<<<<< HEAD
 hi
 there
-=======
-hello
-world
->>>>>>> metro
